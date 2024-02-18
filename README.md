@@ -6,15 +6,15 @@
 [Instagram](https://www.instagram.com/isabellevolaco/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&layout=compact&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&layout=compact&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&theme=synthwave&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&theme=dracula&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&theme=tokyonight&layout=compact)
 
 :python: Python | :html: HTML | :css: CSS |
 
