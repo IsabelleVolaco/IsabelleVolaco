@@ -5,8 +5,13 @@
 [Linkedin](https://www.linkedin.com/in/isabelle-tschoeke-volaco-970332151/)
 [Instagram](https://www.instagram.com/isabellevolaco/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelleVolaco)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&theme=tokyonight)
+
+:python: Python | :html: HTML | :css: CSS |
 
 <!--
 **IsabelleVolaco/IsabelleVolaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
