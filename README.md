@@ -5,9 +5,14 @@
 [Linkedin](https://www.linkedin.com/in/isabelle-tschoeke-volaco-970332151/)
 [Instagram](https://www.instagram.com/isabellevolaco/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&layout=compact&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&theme=tokyonight)
 
