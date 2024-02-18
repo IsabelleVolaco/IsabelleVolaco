@@ -1,4 +1,12 @@
-### Hi there 👋
+# ʕ•́ᴥ•̀ʔっ♡   (>‿◠)✌
+## Currently studying software development, data analytics and biology.
+### I'm excited about eventually contributing to projects that combine science and technology, addressing the needs of today's world.
+
+[Linkedin](https://www.linkedin.com/in/isabelle-tschoeke-volaco-970332151/)
+[Instagram](https://www.instagram.com/isabellevolaco/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelleVolaco)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **IsabelleVolaco/IsabelleVolaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
