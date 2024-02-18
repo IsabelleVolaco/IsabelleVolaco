@@ -6,7 +6,6 @@
 [Instagram](https://www.instagram.com/isabellevolaco/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&layout=compact&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleVolaco&layout=compact&theme=highcontrast)
 
